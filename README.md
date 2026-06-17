@@ -6,7 +6,7 @@ Right now I'm:
 
 - A software engineer co-op at OSI Maritime Systems.
 - An ML research assistant in Alexandra Fedorova's lab at UBC, working on machine learning for memory prefetching.
-- Telemetry lead for UBC Supermileage, writing the firmware that collect and streams data for our competition cars.
+- Telemetry lead for UBC Supermileage, writing the firmware that collects and streams data for our competition cars.
 
 ### Some Cool Projects I Did
 
