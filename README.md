@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Kevin Ding :)
+## Hi I'm Kevin Ding 👋 
 
-I am a Computer Engineering student at UBC (BASc, 2027/28). I mostly work on machine learning, operating systems, and embedded firmware. I build software across frontend/backend, ML, and embedded systems. 
+I am a Computer Engineering student at UBC who is interested in machine learning, operating systems, and embedded firmware. I build scalable backend systems, ML models and data pipelines, and IOT embedded systems. 
 
 Right now I'm:
 
@@ -17,7 +17,7 @@ Right now I'm:
 - **[CAN bridge (UBC Supermileage)](https://github.com/supermileage/Speeduino-CAN-Coprocessor)** -- An STM32-based CAN bridge that connects a Speeduino ECU to a vehicle CAN network to relay engine data as real-time telemetry.
 - **[RISC-V Processor](https://github.com/KevinZhiyuanDing/RISC-V-Processor)** -- A 16-bit, 5-stage pipelined CPU in SystemVerilog, synthesized onto a DE1-SoC FPGA.
 
-I'm always happy to make new friends and talk about interesting topics.
+Thanks for visiting my page. I'm always happy to make new friends and talk about interesting topics :)
 
 <!--
 **KevinZhiyuanDing/KevinZhiyuanDing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
