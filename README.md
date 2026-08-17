@@ -1,6 +1,6 @@
 ## Hi I'm Kevin Ding 👋 
 
-I am a Computer Engineering student at UBC who is interested in machine learning, operating systems, and embedded firmware. I build scalable backend systems, ML models and data pipelines, and IOT embedded systems. 
+I am a Computer Engineering student at UBC who is interested in machine learning, and embodied AI. I build scalable backend systems, ML models, and IOT embedded systems. 
 
 Right now I'm:
 
